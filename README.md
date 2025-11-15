@@ -49,7 +49,8 @@ The radar housing (sensor + LED ring) was designed in *SolidWorks* to:
 <img width="367" height="361" alt="parking_radar" src="https://github.com/user-attachments/assets/dad47c17-c19c-472d-aac2-d584147e1fb3" />
 
 ## 💾 Arduino Code Example
-
+➡️ Full Arduino code available here:
+   arduino_ultrasonic_parking_radar/code/parking_radar/parking_radar.ino
 
 ## 👥 Team & Collaboration
 
